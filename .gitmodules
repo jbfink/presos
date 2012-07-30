@@ -7,9 +7,6 @@
 [submodule "ltc2012"]
 	path = ltc2012
 	url = git@github.com:jbfink/ltc2012.git
-[submodule "vcforlibraries"]
-	path = vcforlibraries
-	url = git@github.com:jbfink/vcforlibraries.git
 [submodule "codercamp2012"]
 	path = codercamp2012
 	url = git@github.com:jbfink/codercamp2012.git
