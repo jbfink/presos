@@ -1,0 +1,3 @@
+[submodule "c4ln2012"]
+	path = c4ln2012
+	url = git@github.com:jbfink/c4ln2012.git
