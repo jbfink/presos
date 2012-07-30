@@ -4,3 +4,9 @@
 [submodule "GLTHATcamp2012"]
 	path = GLTHATcamp2012
 	url = https://github.com/jbfink/GLTHATcamp2012
+[submodule "ltc2012"]
+	path = ltc2012
+	url = git@github.com:jbfink/ltc2012.git
+[submodule "vcforlibraries"]
+	path = vcforlibraries
+	url = git@github.com:jbfink/vcforlibraries.git
